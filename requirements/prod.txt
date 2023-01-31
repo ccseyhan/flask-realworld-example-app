@@ -13,7 +13,6 @@ Flask
 PyJWT
 Flask-JWT-Extended
 unicode_slugify
-psycopg2
 Flask-Migrate
 gunicorn
 Flask-Cors
